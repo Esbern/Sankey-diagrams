@@ -1,0 +1,11 @@
+# environment.yaml
+name: sankey-diagrams
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - plotly
+  - duckdb
+  - requests
+  - ipykernel
